@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestForLombard</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="patronymic">Отчество</string>
+    <string name="date_of_birth">Дата рождения</string>
+    <string name="registration_address">Адрес по прописке</string>
+    <string name="actual_address">Фактический адрес</string>
+    <string name="phone_numbers">Номера телефонов</string>
+    <string name="passport">Паспортные данные</string>
+    <string name="personal_id">ИНН</string>
+    <string name="add_new_client">Add new client</string>
+    <string name="save">Save</string>
+</resources>

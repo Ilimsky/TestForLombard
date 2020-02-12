@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "148201806260",
+    "firebase_url": "https://lombard-9aaa1.firebaseio.com",
+    "project_id": "lombard-9aaa1",
+    "storage_bucket": "lombard-9aaa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148201806260:android:c6952f765743645f867ae1",
+        "android_client_info": {
+          "package_name": "de.springco.testforlombard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148201806260-1hbcrdjbt2e8dp0ku8cdkm1qeq9sakhf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "de.springco.testforlombard",
+            "certificate_hash": "33be6c656705fc17d1f045e57163896634445e7c"
+          }
+        },
+        {
+          "client_id": "148201806260-5jaf4hcc10i323hf2rvhbnugih9t65vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNYcjXe9xVj1HoFmCbN-M6hpwHk9HZflo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148201806260-5jaf4hcc10i323hf2rvhbnugih9t65vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
